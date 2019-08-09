@@ -1,3 +1,4 @@
+package dev.rinaldo.soujava;
 import java.time.LocalTime;
 
 public class Duration {

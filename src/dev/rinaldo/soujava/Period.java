@@ -1,3 +1,4 @@
+package dev.rinaldo.soujava;
 import java.time.LocalDate;
 public class Period {
 

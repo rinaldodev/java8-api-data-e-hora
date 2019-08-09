@@ -1,3 +1,4 @@
+package dev.rinaldo.soujava;
 public class Instant {
 
   // Java 8 - API de Data e Hora

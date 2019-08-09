@@ -1,3 +1,4 @@
+package dev.rinaldo.soujava;
 import java.util.Locale;
 
 public class LocalTime {
